@@ -1,9 +1,9 @@
 ## Sales Report :
 Project objective:
 
-1. Create a [_Customer Performance Report_](https://github.com/user-attachments/files/25369189/Customer.Performance.Report.pdf)
+1. Create a [_customer performance report_](https://github.com/user-attachments/files/25369189/Customer.Performance.Report.pdf)
 
-2. Conduct a comprehensive comparison between [_Market Performance and Sales Target_](https://github.com/user-attachments/files/25369136/Market.Performance.vs.Target.using.ETL.pdf)
+2. Conduct a comprehensive comparison between [_market performance and sales target_](https://github.com/user-attachments/files/25369136/Market.Performance.vs.Target.using.ETL.pdf)
 
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
