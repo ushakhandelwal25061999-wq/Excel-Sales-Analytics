@@ -1,9 +1,9 @@
 # Sales Report :
 Project objective:
 
-1. Create a _[Customer Performance Report]_(https://github.com/user-attachments/files/25369189/Customer.Performance.Report.pdf)
+1. Create a [_Customer Performance Report_](https://github.com/user-attachments/files/25369189/Customer.Performance.Report.pdf)
 
-2. Conduct a comprehensive comparison between _[Market Performance vs Target]_(https://github.com/user-attachments/files/25369136/Market.Performance.vs.Target.using.ETL.pdf)
+2. Conduct a comprehensive comparison between [_Market Performance vs Target_](https://github.com/user-attachments/files/25369136/Market.Performance.vs.Target.using.ETL.pdf)
 
 
 - Purpose of sales analytics: Empower businesses to monitor and evaluate their sales activities and performance.
@@ -16,13 +16,13 @@ Project objective:
 
  ### Project objective:
 
-1. Create Profit and Loss (P&L) reports by _[Fiscal Year]_(https://github.com/user-attachments/files/25369174/P.L.by.Year.pdf)
+1. Create Profit and Loss (P&L) reports by [_Fiscal Year_](https://github.com/user-attachments/files/25369174/P.L.by.Year.pdf)
 
 
-2. Create Profit and Loss (P&L) reports by _[Markets]_(https://github.com/user-attachments/files/25369197/P.L.by.Markets.pdf)
+2. Create Profit and Loss (P&L) reports by [_Markets_](https://github.com/user-attachments/files/25369197/P.L.by.Markets.pdf)
 
 
-3. Create Profit and Loss (P&L) reports by _[Months]_(https://github.com/user-attachments/files/25369204/P.L.by.Fiscal.Months.pdf)
+3. Create Profit and Loss (P&L) reports by [_Months_](https://github.com/user-attachments/files/25369204/P.L.by.Fiscal.Months.pdf)
 
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
