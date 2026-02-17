@@ -1,4 +1,4 @@
-# Sales Report :
+## Sales Report :
 Project objective:
 
 1. Create a [_Customer Performance Report_](https://github.com/user-attachments/files/25369189/Customer.Performance.Report.pdf)
@@ -6,13 +6,13 @@ Project objective:
 2. Conduct a comprehensive comparison between [_Market Performance vs Target_](https://github.com/user-attachments/files/25369136/Market.Performance.vs.Target.using.ETL.pdf)
 
 
-- Purpose of sales analytics: Empower businesses to monitor and evaluate their sales activities and performance.
+- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
-- Importance of analyzing sales data: Identify sales patterns and track key performance indicators (KPIs).
+- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
 
-- Role of reports: Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
-# Finance Report :
+## Finance Report :
 
  ### Project objective:
 
