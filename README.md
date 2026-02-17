@@ -1,5 +1,5 @@
 ## Sales Report :
-Project objective:
+### Project objective:
 
 1. Create a [_customer performance report_](https://ushakhandelwal25061999-wq.github.io/Excel-Sales-Analytics/Customer%20Performance%20Report.pdf)
 
