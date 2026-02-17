@@ -1,10 +1,10 @@
 ## Sales Report :
 Project objective:
 
-1. Create a [_customer performance report_](https://github.com/user-attachments/files/25373717/Customer%20Performance%20Report.pdf)
+1. Create a [_customer performance report_](https://ushakhandelwal25061999-wq.github.io/Excel-Sales-Analytics/Customer%20Performance%20Report.pdf)
 
 
-2. Conduct a comprehensive comparison between [_market performance and sales target_](https://github.com/user-attachments/files/25369136/Market.Performance.vs.Target.using.ETL.pdf)
+2. Conduct a comprehensive comparison between [_market performance and sales target_](https://ushakhandelwal25061999-wq.github.io/Excel-Sales-Analytics/Market%20Performance%20vs%20Target%20using%20ETL.pdf)
 
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
@@ -17,7 +17,7 @@ Project objective:
 
  ### Project objective:
 
-1. Create Profit and Loss (P&L) reports by [_Fiscal Year_](https://github.com/user-attachments/files/25369174/P.L.by.Year.pdf)
+1. Create Profit and Loss (P&L) reports by [_Fiscal Year_](https://ushakhandelwal25061999-wq.github.io/Excel-Sales-Analytics/P%26L%20by%20Year.pdf)
 
 
 2. Create Profit and Loss (P&L) reports by [_Markets_](https://github.com/user-attachments/files/25369197/P.L.by.Markets.pdf)
